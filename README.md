@@ -1,7 +1,7 @@
 # JOB SURVEY DASHBORD
 
 ## DASHBOARD
-![Snap_3]([https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg](https://github.com/middle-class/Job-Survey-analysis/issues/1#issue-2937391350))
+![Image](https://github.com/user-attachments/assets/77c59b90-e88a-4ba2-9bf7-c22ba1bc9bd4)
 
 ## Problem Statement
 
